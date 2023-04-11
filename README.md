@@ -36,5 +36,4 @@ cd ../client && npm start
 cd ../server && npm run dev
 The client should open in your default browser at http://localhost:3000/ and the server should run at http://localhost:5000/.
 
-Contributing
 Contributions are welcome! If you notice any bugs or would like to add a feature, please submit an issue or pull request.
