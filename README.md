@@ -2,6 +2,7 @@
 YourStore is an interactive e-commerce platform that aims to combat the steep competition local grocery stores face owing to recent circumstances and growing trends
 
 Created By: Anshuman Gupta, Aditi Katiyar, Prince Choudhary and Ananya Redhu
+
 This repository contains the source code for our store. The store is built using the MERN stack (MongoDB, Express, React, and Node.js) .
 
 Features:
